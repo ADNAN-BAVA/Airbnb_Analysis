@@ -1,6 +1,5 @@
 # NYC Airbnb Data Analysis 2019 🏙️✈️  
-
-![License](https://img.shields.io/github/license/MIT)  
+  
 ![Tableau](https://img.shields.io/badge/Built%20With-Tableau-orange?style=flat&logo=tableau)  
 
 ## Overview  
